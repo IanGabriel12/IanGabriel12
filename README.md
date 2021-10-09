@@ -13,7 +13,7 @@ Olá, meu nome é Ian, tenho 18 anos e 4 anos de estudo em programação. Falta 
 ## 📚 Quero aprender:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-# Contatos:
+# 📞 Contatos:
 - Linkedin: [ian-gabriel12](https://www.linkedin.com/in/ian-gabriel12/)
 - Telefone: (84) 9 9688-9610
 - E-mail: iangabriel.dias12@gmail.com
