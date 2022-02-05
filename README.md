@@ -1,5 +1,3 @@
-![Banner do perfil](https://i.ibb.co/ysNfBCV/Banner-README.jpg)
-
 # 🙋‍♂️ Sobre mim
 Olá, meu nome é Ian, tenho 18 anos e 4 anos de estudo em programação. Falta um ano para eu me formar no curso técnico em informática pelo IFRN e gostaria de uma nova oportunidade como Jr. Tenho 11 meses de experiência de mercado trabalhando como frontend, utilizando principalmente React e Vue.js, também sei conceitos de UI/UX que aplico diariamente durante o desenvolvimento. Gosto muito de programar e de desenvolver soluções limpas e de qualidade para ideias inovadoras. Vamos nos conectar?
 
