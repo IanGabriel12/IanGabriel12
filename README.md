@@ -4,7 +4,7 @@ I love computer science theory and competitive programing. I am experienced in w
 Right now I am migrating my stack to Java. I want to focus on back-end development using Spring Boot framework. You can see what I am studying here.
 
 ## Some things I am doing right now
-- 🖥️: I have been teaching to the freshers some computer science theory for programming contests, in preparation to the Olympiads and the ICPC. You can see some classes in my youtube channel (the classes are in portuguese).
+- 🖥️: I have been teaching to the freshers some computer science theory for programming contests, in preparation to some Olympiads and the ICPC. You can see some classes in my youtube channel (the classes are in portuguese).
 [Playlist link](https://www.youtube.com/playlist?list=PLcuPwzbMuZbI4UJpmllx8AHHJhxAxfpmp)
 - 📚: [Project Bora Pagar](https://github.com/isaacmsl/bora-pagar) - A system to reunite students who want to study subjects together
 - 🤖: [Some basic stuff in spring boot](https://github.com/IanGabriel12/spring-boot-basic-crud)
